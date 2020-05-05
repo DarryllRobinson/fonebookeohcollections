@@ -1,0 +1,3 @@
+account_number,age,msisdn,customer_name,balance,current_value,balouts,Value_30_days,Value_60_days,Value_90_days,Value_120_days,debit_order_date,id_number,telephone1,telephone2,telephone3,telephone4,telephone5,telephone6,telephone7,telephone8,telephone9,telephone10,Dialer_Comments,agentname
+JS_Acc1,30,840000001,Customer Name 1,33.91,0,33.91,33.91,0,0,0,6,id_number 1,tel1_1,tel2_2,tel3_3,tel4_4,tel5_5,tel6_6,tel7_7,tel8_8,tel9_9,tel10_10,Loaded 20200330,nerikap@cellc.co.za
+JS_Acc2,30,840000002,Customer Name 2,528,489,39,39,0,0,0,30,id_number 2,tel1_2,tel2_3,tel3_4,tel4_5,tel5_6,tel6_7,tel7_8,tel8_9,tel9_10,tel10_11,Loaded 20200331,magdelinem@cellc.co.za
